@@ -1,0 +1,42 @@
+# Make sure you're in the root directory
+cd C:\project_personal\integrations_technical_assessment
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.env
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Runtime data
+dump.rdb
+*.pid
+*.seed
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Temporary folders
+tmp/
+temp/
